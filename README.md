@@ -1,2 +1,2 @@
 # hello_world
-Just a repository
+Just a README repository
